@@ -1,3 +1,3 @@
-class TitleValidator < ActiveModel::a 
+class TitleValidator < ActiveModel::Validator
   
 end 
